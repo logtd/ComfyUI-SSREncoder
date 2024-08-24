@@ -1,6 +1,11 @@
 # ComfyUI-SSREncoder
 ComfyUI Nodes to use [SSR Encoder](https://github.com/Xiaojiu-z/SSR_Encoder)
 
+## Installation
+
+You can find the SSR Encoder models, one for alignment and one for attentions, on [Huggingface](https://huggingface.co/logtd/ssr_encoder/tree/main)
+Download them to your `ComfyUI/models/ssr` directory.
+
 ## Examples
 
 See `example_workflows` directory for example.
