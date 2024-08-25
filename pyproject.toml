@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-ssrencoder"
+description = "ComfyUI Nodes to use [a/SSR Encoder:Encoding Selective Subject Representation for Subject-Driven Generation](https://github.com/Xiaojiu-z/SSR_Encoder)."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/logtd/ComfyUI-SSREncoder"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-SSREncoder"
+Icon = ""
